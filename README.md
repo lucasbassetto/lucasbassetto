@@ -1,6 +1,6 @@
 ### Hello! My name is Lucas ✋
 ### Welcome to my GitHub page!
-###  Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
+### Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbassetto&show_icons=true&theme=dracula)
