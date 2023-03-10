@@ -4,7 +4,9 @@
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbassetto&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbassetto&layout=compact)](https://github.com/lucasbassetto/github-readme-stats)
 
 ### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/lucas-feliciano-bassetto-66704b191/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://www.linkedin.com/in/lucas-feliciano-bassetto-66704b191/)
