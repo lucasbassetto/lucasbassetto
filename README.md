@@ -1,4 +1,4 @@
-### Hello! My name is Lucas ✋
+### Hello! I'm Lucas ✋
 ### Welcome to my GitHub page!
 ### Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
 
