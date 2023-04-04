@@ -1,6 +1,6 @@
 ### Hello! My name is Lucas ✋ 
 ### Welcome to my GitHub page!
-### Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
+### 🎓 Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
 ### 📚 I'm currently  learning back-end (JAVA) at [Ada](https://ada.tech/)
 ### 💻 Technologies: Java, PostgreSQL, HTML, CSS, JavaScript
 
