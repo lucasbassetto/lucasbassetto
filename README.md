@@ -1,6 +1,8 @@
-### Hello! I'm Lucas ✋
+### Hello! My name is Lucas ✋ 
 ### Welcome to my GitHub page!
-### Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
+### Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
+### 📚 I'm currently  learning back-end (JAVA) at [Ada](https://ada.tech/)
+### 💻 Technologies: Java, PostgreSQL, HTML, CSS, JavaScript
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbassetto&show_icons=true&theme=dracula)
@@ -8,4 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbassetto&layout=compact)](https://github.com/lucasbassetto/github-readme-stats)
 
 ### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feliciano-bassetto-66704b191/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/lucas-feliciano-bassetto-66704b191/)
