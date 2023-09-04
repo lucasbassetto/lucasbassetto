@@ -1,8 +1,7 @@
 ### Hello! My name is Lucas ✋ 
 ### Welcome to my GitHub page!
 ### 🎓 Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)
-### 📚 I'm currently  learning back-end (JAVA) at [Ada](https://ada.tech/)
-### 💻 Technologies: Java, PostgreSQL, HTML, CSS, JavaScript
+### 💻 Technologies: Java, PostgreSQL, HTML, CSS, JavaScript, Node
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbassetto&show_icons=true&theme=dracula)
