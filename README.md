@@ -11,7 +11,7 @@
 
 - 🎓 **Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)**
 
-- 📫 How to reach me **lucasfbassetto@gmail.com**
+- 📫 How to reach me: **lucasfbassetto@gmail.com**
 
 
 ### Connect with me
