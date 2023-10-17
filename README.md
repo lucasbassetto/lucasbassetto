@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, NodeJS**
 
-- 🎓 **Graduated in Civil Engeneering and Graduating Systems Analysis and Development at Federal University of Technology – Parana (UTFPR)**
+- 🎓 **Civil Engeneering Graduate and Systems Analysis and Development student at Federal University of Technology – Parana (UTFPR)**
 
 - 📫 How to reach me: **lucasfbassetto@gmail.com**
 
